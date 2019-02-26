@@ -1,0 +1,18 @@
+body{
+  font-family:sans-serif;
+}
+h1{text-align: center;}
+
+p{text-align: center;}
+
+h1.forside {font-size: 70px;}
+h1.underside {font-size: 70px;}
+
+a.underside {font-size: 50px;}
+
+
+p{font-size: 50px;}
+
+h1.underside2{text-align: center;}
+
+a.underside2{font-size: 30px}
